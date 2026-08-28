@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Elegant Korean Outfit</title>
+
+<meta name="description"
+      content="Discover this beautiful Korean-inspired outfit.">
+
+<meta property="og:title"
+      content="Elegant Korean Outfit">
+
+<meta property="og:description"
+      content="Discover this beautiful Korean-inspired outfit.">
+
+<meta property="og:image"
+      content="thumbnail.jpg">
+
+<meta name="twitter:card"
+      content="summary_large_image">
+
+<meta name="twitter:title"
+      content="Elegant Korean Outfit">
+
+<meta name="twitter:description"
+      content="Discover this beautiful Korean-inspired outfit.">
+
+<meta name="twitter:image"
+      content="thumbnail.jpg">
+
+<style>
+
+body {
+    margin: 0;
+    background: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+
+video {
+    width: 100%;
+    border-radius: 15px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+p {
+    color: #ccc;
+}
+
+.button {
+    display: block;
+    margin-top: 20px;
+    padding: 16px;
+    background: #ee4d2d;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Elegant Korean Outfit</h1>
+
+<video
+    controls
+    poster="thumbnail.jpg">
+
+    <source
+        src="video.mp4"
+        type="video/mp4">
+
+</video>
+
+<p>
+Discover this beautiful Korean-inspired outfit.
+</p>
+
+<a
+    class="button"
+    href="LINK_SHOPEE_KAMU"
+    target="_blank">
+
+    🛒 Lihat Produk di Shopee
+
+</a>
+
+</div>
+
+</body>
+</html>
